@@ -25,7 +25,7 @@ I am passionate about **Web Development** and enjoy building interactive web app
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh-codes&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh-codes&layout=compact&title_color=ff79c6&text_color=ffffff&bg_color=141321&hide_border=true)
 
 
 
