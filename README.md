@@ -57,7 +57,6 @@ I am passionate about **Web Development** and enjoy building interactive web app
 - Deepen skills in **frontend web development**.  
 - Learn **backend technologies** to become a **full-stack developer**.  
 - Build projects integrating **APIs and databases**.  
-- Learn **Git** and version control for better project management.  
 - Start contributing to **open-source projects**.  
 
 ---
