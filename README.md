@@ -1,6 +1,6 @@
 # Hi, I'm Roshan! 👋
 
-I'm a **Bachelor's student at Riga Technical University** studying **Computer Systems**. 
+I'm a **Master's student at Riga Technical University** studying **Computer Systems**. 
 I am passionate about **Web Development** and enjoy building interactive web apps.  
 
 ---
